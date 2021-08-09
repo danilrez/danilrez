@@ -5,7 +5,7 @@
 
 ## About
 
-![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&color=111&style=flat)
+![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&color=101010&style=flat)
 
 - 🔭 I’m currently working on Eccentex knowledge base
 - 🌱 I’m currently learning everything 🤯
