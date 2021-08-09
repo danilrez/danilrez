@@ -4,6 +4,8 @@
 
 ---
 
+#### About
+
 - 🔭 I’m currently working on Eccentex knowledge base
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about whatever u wants
@@ -11,7 +13,14 @@
 
 #### Skills & Experience
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg' alt='oracle' height='20'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' height='20'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css' height='20'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='js' height='20'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='20'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='cshaep' height='20'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dotnet' height='20'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg' alt='oracle' height='20'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' height='20'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css' height='20'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='js' height='20'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sencha.svg' alt='sencha-extjs' height='20'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='20'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='20'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dotnet' height='20'>
 
 #### Links
 
