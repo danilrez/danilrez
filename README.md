@@ -47,7 +47,7 @@
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&color=5a25a1&style=flat)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&color=111&style=flat)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=111&style=flat)
-![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=3193d4&color=111&style=flat)
+![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&style=flat)
 
 ## Social
 
