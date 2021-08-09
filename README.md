@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there, I'm Danil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"></h1>
-<h4 align="center"> Husband, Father, Developer, and Teacher from Russia!!!</h4>
-
----
+<h3 align="center"> Husband, Father, Developer, and Teacher from Russia!!!</h3>
 
 ![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&style=flat-square)
+
+---
 
 #### About
 
@@ -14,7 +14,7 @@
 
 #### Languages, Tools & Experience:
 
-<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="20"/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&height=10)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,7 +54,7 @@
 
 #### Social
 
-[![Instagram](https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/danil_ej9)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/danil_ej9)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dani-dani)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](link)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrappyCodeMaker)
