@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![CrappyCodeMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker)](https://github.com/CrappyCodeMaker/github-readme-stats)
+[![CrappyCodeMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/CrappyCodeMaker/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker)](https://github.com/CrappyCodeMaker/github-readme-stats)
 
