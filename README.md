@@ -21,10 +21,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat)
-
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=flat)
 ![Sencha](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&style=flat)
-
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&style=flat)
@@ -36,7 +34,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&style=flat)
-
 ![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&style=flat)
@@ -45,10 +42,8 @@
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white&style=flat)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&style=flat)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat)
-
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![Adobe](https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=fff&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
@@ -65,7 +60,16 @@
   <summary><h4>:zap: GitHub Stats</h4></summary>
 
 <img width='47%' src='https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&icon_color=ffc83d&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs' alt='stats'>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <img width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact' alt='langs'>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CrappyCodeMaker)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&show_icons=true)
 
 </details>
 
@@ -77,3 +81,5 @@
 ![Most Used Languages](https://raw.githubusercontent.com/CrappyCodeMaker/github-stats-transparent/output/generated/languages.svg)
 
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CrappyCodeMaker&theme=dark&hide_border=true&background=FFFFFF00&border=FFFFFF00&stroke=0ABBFF&ring=5AFF00&fire=FF9C00&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=A1A1A1)](https://git.io/streak-stats)
