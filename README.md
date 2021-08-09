@@ -22,18 +22,13 @@
 <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square" alt="Markdown" height="18">
 
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js" height="18">
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&){height=40px}
-
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat-square" alt="React" height="18">
 <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat-square" alt="React Router" height="18">
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat-square" alt="Redux" height="18">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap" height="18">
-<img src="https://img.shields.io/badge/Material--UI-0081CB?logo=materialui&logoColor=fff&style=flat-square" alt="Material-UI" height="18">
 
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
-
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square" alt="Material-UI" height="18">
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&style=flat-square" alt="Material-UI" height="18">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat-square" alt="Webpack" height="18">
 <img src="https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&style=flat-square" alt="Sencha" height="18">
 
@@ -45,14 +40,11 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat-square" alt="Visual Studio" height="18">
 
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git" height="18">
-
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&style=flat-square" alt="Git" height="18">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub" height="18">
 
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat-square" alt="Oracle" height="18">
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=flat-square" alt="Oracle" height="18">
 
 <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square" alt="Jira" height="18">
 
