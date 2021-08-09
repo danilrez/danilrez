@@ -23,8 +23,8 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-![CrappyCodeMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&title_color=3d9bf5&bg_color=22272E&text_color=adbac7&icon_color=ffc83d&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs)
+![CrappyCodeMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&title_color=3d9bf5&bg_color=22272E&text_color=eeeeee&icon_color=ffc83d&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&title_color=3d9bf5&bg_color=22272E&text_color=adbac7&icon_color=F1E05B&hide_border=true&hide_title=false&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&title_color=3d9bf5&bg_color=22272E&text_color=adbac7&icon_color=F1E05B&hide_border=true&hide_title=false&show_icons=true&count_private=true)
 
 </details>
