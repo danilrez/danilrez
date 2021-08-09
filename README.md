@@ -6,10 +6,10 @@
 
 ### Skills & Experience
 
-- 🛢️ Oracle, PL/SQL
-- 💻 HTML, CSS, JS
-- ⚛️ REACT
-- .NET
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg' alt='oracle' height='24'> Oracle, PL/SQL
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' height='24'> HTML, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css' height='24'> CSS, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='js' height='24'> JS
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='24'> REACT
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='cshaep' height='24'> C# <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dotnet' height='24'> .NET
 
 * 🔭 I’m currently working on Eccentex knowledge base
 * 🌱 I’m currently learning everything 🤣
