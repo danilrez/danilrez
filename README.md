@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-![I'm a Husband, Father, Developer, and Teacher!!!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a Husband, Father, Developer, and Teacher!!!]()
 
 Skills: JavaScript / Oracle PL SQL / HTML / CSS / REACT / .NET
 
@@ -11,10 +11,7 @@ Skills: JavaScript / Oracle PL SQL / HTML / CSS / REACT / .NET
 - 💬 Ask me about whatever u wants
 - ⚡ Fun fact: I love to draw 🎨 and tuned cars 🏎️
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CrappyCodeMaker) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dani-dani/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/danil_ej9/)
-
-<br />
-<br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/CrappyCodeMaker) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/dani-dani/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='24'>](https://www.instagram.com/danil_ej9/)
 
 ---
 
