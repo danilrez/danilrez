@@ -56,16 +56,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat)](https://t.me/RezniDa)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/CrappyCodeMaker)
 
-## 📊 Github Stats
+## Github Stats
 
-<div style="width:47%">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272E,313842,22272E&title_color=EEEEEE&text_color=a4b1be&icon_color=ffc83d&border_radius=10&line_height=25&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs 'GitHub stats')
-
-</div>
-
-<div  style="width:47%">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272E,313842,22272E&title_color=EEEEEE&text_color=a4b1be&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact 'Top Langs')
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272E,313842,22272E&title_color=EEEEEE&text_color=a4b1be&icon_color=ffc83d&border_radius=10&line_height=25&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs" width="47%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272E,313842,22272E&title_color=EEEEEE&text_color=a4b1be&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact" width="47%" alt="Top Langs">
