@@ -14,7 +14,7 @@
 
 ## Languages, Tools & Experience
 
-#### :computer: Main tech
+#### 💻 Main tech knowledge
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -29,7 +29,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
-#### :brain: Other knowledge
+#### 🧠 Other knowledge
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
@@ -56,30 +56,16 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat)](https://t.me/RezniDa)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/CrappyCodeMaker)
 
-<details>
-  <summary><h4>:zap: GitHub Stats</h4></summary>
-
-<img width='47%' src='https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&icon_color=ffc83d&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs' alt='stats'>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<img width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact' alt='langs'>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CrappyCodeMaker)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&show_icons=true)
-
-</details>
-
 ## 📊 Github Stats
 
-<a href='https://github.com/CrappyCodeMaker/github-stats-transparent'>
+<div style="width:47%">
 
-![Stats Overview](https://raw.githubusercontent.com/CrappyCodeMaker/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/CrappyCodeMaker/github-stats-transparent/output/generated/languages.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272E,313842,22272E&title_color=EEEEEE&text_color=a4b1be&icon_color=ffc83d&border_radius=10&line_height=25&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs 'GitHub stats')
 
-</a>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CrappyCodeMaker&theme=dark&hide_border=true&background=FFFFFF00&border=FFFFFF00&stroke=0ABBFF&ring=5AFF00&fire=FF9C00&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=A1A1A1)](https://git.io/streak-stats)
+<div  style="width:47%">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272E,313842,22272E&title_color=EEEEEE&text_color=a4b1be&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact 'Top Langs')
+
+</div>
