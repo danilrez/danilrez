@@ -13,39 +13,35 @@
 ### Languages, Tools & Experience:
 
 <!-- height="23" -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5" height="23">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3" height="23">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript" height="23">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="23">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat-square" alt="PowerShell" height="23">
-<img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square" alt="Markdown" height="23">
 
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5" height="23"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3" height="23"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript" height="23"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="23"> <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat-square" alt="PowerShell" height="23"> <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square" alt="Markdown" height="23">
+
+<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js" height="23">
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat-square" alt="React Router" height="23">
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat-square" alt="Redux" height="23">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap" height="23">
+<img src="https://img.shields.io/badge/Material--UI-0081CB?logo=materialui&logoColor=fff&style=flat-square" alt="Material-UI" height="23">
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square" alt=".NET" height="23">
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Sencha] height="23"(https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&style=flat-square)
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat-square" alt="Webpack" height="23">
+<img src="https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&style=flat-square" alt="Sencha" height="23">
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+<img src="https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=fff&style=flat-square" alt="Adobe" height="23">
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square" alt="Adobe Photoshop" height="23">
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat-square" alt="Adobe Illustrator" height="23">
 
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" alt="Visual Studio Code" height="23">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat-square" alt="Visual Studio" height="23">
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git" height="23">
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub" height="23">
 
-![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat-square" alt="Oracle" height="23">
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square" alt="Jira" height="23">
 
 ---
 
