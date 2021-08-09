@@ -1,9 +1,8 @@
-<h1 align="center"> Hi there, I'm Danil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px"></h1>
-<h4 align="center"> Husband, Father, Developer from Russia!!!</h4>
+# Hi there, I'm Danil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px">
+
+#### Husband, Father, Developer from Russia!!!
 
 ---
-
-## About
 
 ![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&style=flat)
 
