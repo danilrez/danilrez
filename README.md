@@ -58,7 +58,11 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrappyCodeMaker)
 
 <details>
-  <summary><h4>⚡ GitHub Stats ![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&style=flat-square)</h4></summary>
+  <summary><h4>⚡ GitHub Stats</h4></summary>
+
+![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&style=flat-square)
+
+ </br>
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&icon_color=ffc83d&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs' alt='stats'>
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact' alt='langs'>
