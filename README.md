@@ -1,10 +1,10 @@
-### Hi there, I'm Danil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Danil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
 #### I'm a Husband, Father, Developer, and Teacher!!
 
 ---
 
-![](https://komarev.com/ghpvc/?username=CrappyCodeMaker)
+![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&style=flat-square)
 
 #### About
 
