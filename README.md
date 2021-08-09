@@ -3,7 +3,7 @@
 
 ---
 
-### 👤 About
+## 👤 About
 
 ![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&style=flat-square)
 
@@ -12,7 +12,7 @@
 - 💬 Ask me about whatever u wants
 - ⚡ Fun fact: I love to draw 🎨 and tuned cars 🏎️
 
-### 🚀 Languages, Tools & Experience:
+## 🚀 Languages, Tools & Experience:
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -47,7 +47,7 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
 
-### 🗨️ Social
+## 🗨️ Social
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/danil_ej9)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/dani-dani)
@@ -55,9 +55,9 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/CrappyCodeMaker)
 
 <details>
-  <summary><h4> :zap: GitHub Stats</h4></summary>
+  <summary><h2>:zap: GitHub Stats</h2></summary>
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&icon_color=ffc83d&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs' alt='stats'>
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact' alt='langs'>
+<img width='47%' src='https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&icon_color=ffc83d&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs' alt='stats'>
+<img width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact' alt='langs'>
 
 </details>
