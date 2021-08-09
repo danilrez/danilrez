@@ -14,7 +14,7 @@
 
 <!-- height="19" -->
 
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square){: width=150}
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5" height="19"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3" height="19"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript" height="19"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="19"> <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat-square" alt="PowerShell" height="19"> <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square" alt="Markdown" height="19">
 
@@ -52,7 +52,3 @@
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=22272E&text_color=a4b1be&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact' alt='langs'>
 
 </details>
-
-```{css}
-img {width:40px}
-```
