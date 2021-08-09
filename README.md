@@ -14,9 +14,7 @@
 
 ## Languages, Tools & Experience
 
-<details>
-  <summary><b>:computer: Main tech knowledge</b></summary>
-  <br/>
+#### :computer: Main tech
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -33,11 +31,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
-</details>
-
-<details>
-  <summary><b>:brain: &nbsp;Other knowledge</b></summary>
-  <br/>
+#### :brain: Other knowledge
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
@@ -59,8 +53,6 @@
 ![Adobe](https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=fff&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
-
-</details>
 
 ## Social
 
