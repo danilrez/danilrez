@@ -23,13 +23,14 @@
 
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js" height="18">
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&height=40)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB& =40)
 
 <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat-square" alt="React Router" height="18">
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat-square" alt="Redux" height="18">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap" height="18">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=materialui&logoColor=fff&style=flat-square" alt="Material-UI" height="18">
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square" alt=".NET" height="18">
+
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
