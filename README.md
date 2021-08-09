@@ -50,7 +50,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=111&style=flat)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=7040AA&style=flat)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&color=111&style=flat)
-![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&color=111&style=flat)
+![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=3193d4&color=111&style=flat)
 
 ## Social
 
