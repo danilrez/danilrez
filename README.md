@@ -1,7 +1,7 @@
 ### Hi there, I'm Danil - aka [CrappyCodeMaker](https://github.com/CrappyCodeMaker) 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/danil_ej9)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/danil-reznichenko)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/danil_ej9)
+[<img align="left" alt="CrappyCodeMaker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dani-dani)
+[<img align="left" alt="CrappyCodeMaker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/danil_ej9)
 
 <br />
 
@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="CrappyCodeMaker's GitHub Stats" src="https://github-readme-stats.CrappyCodeMaker.vercel.app/api?username=CrappyCodeMaker&show_icons=true&hide_border=true" />
+[![CrappyCodeMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker)](https://github.com/CrappyCodeMaker/github-readme-stats)
 
 </details>
 
