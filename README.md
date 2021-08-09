@@ -6,12 +6,12 @@
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love 🎨 to draw and 🏎️ tuned cars
+- ⚡ Fun fact: I love to draw 🎨 and tuned cars 🏎️
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/danil-reznichenko]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/danil_ej9]
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/danil-reznichenko)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/danil_ej9)
 
 <br />
 
@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="CrappyCodeMaker's GitHub Stats" src="https://github-readme-stats.CrappyCodeMaker.vercel.app/api?username=CrappyCodeMaker&show_icons=true&hide_border=true" />
 
 </details>
 
