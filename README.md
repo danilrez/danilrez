@@ -5,7 +5,7 @@
 
 ## About
 
-![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&color=101010&style=flat)
+![](https://komarev.com/ghpvc/?username=CrappyCodeMaker&color=101010&logoColor=white&style=flat)
 
 - 🔭 I’m currently working on Eccentex knowledge base
 - 🌱 I’m currently learning everything 🤯
@@ -46,10 +46,11 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=ffc83d&style=flat)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=ffc83d&color=0b4779&style=flat)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=111&style=flat)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=7040AA&color=111&style=flat)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&color=111&style=flat)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&color=111&style=flat)
 
 ## Social
