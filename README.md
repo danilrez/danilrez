@@ -1,6 +1,6 @@
-## Hi there, I'm Danil 👋
+### Hi there, I'm Danil 👋
 
-### I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father, Developer, and Teacher!!
 
 ### Skills & Experience
 
@@ -16,15 +16,12 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/CrappyCodeMaker) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/dani-dani/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='24'>](https://www.instagram.com/danil_ej9/)
 
-<br />
-<br />
-
 ---
 
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-![CrappyCodeMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&&theme=nord&hide_border=true&hide_title=true&show_icons=true&count_private=true&hide=contribs,prs)
+![CrappyCodeMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=FFFFFFFF&border_color=FFFFFFFFbg_color=FFFFFFFF&text_color=#CCC&icon_color=#539BF5&hide_border=true&hide_title=true&show_icons=true&count_private=true&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&hide_border=true&hide_title=true&show_icons=true&count_private=true)
 
