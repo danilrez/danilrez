@@ -97,9 +97,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff&color=0A66C2&style=flat)](https://www.linkedin.com/in/dani-dani)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)](https://github.com/CrappyCodeMaker)
 
-## Github Stats
+---
 
 <details><summary><i><b>Github Stats</b></i></summary>
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&label=PROFILE+VIEWS&color=067ac8&style=flat)
 
