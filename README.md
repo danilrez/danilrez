@@ -1,8 +1,6 @@
 # Hi there, I'm Danil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-#### Husband, Father, Developer from Russia!!!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)](https://git.io/typing-svg)
+![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859CEE&vCenter=true&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
 ---
 
@@ -12,13 +10,6 @@
 - ⚡ Fun fact: I love to draw 🎨 and tuned cars 🏎️
 
 ## Languages, Tools & Experience
-
-#### TEST
-
-![javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
-![html](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
-![css](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
-![react](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
 
 #### 💻 Main tech knowledge
 
@@ -67,6 +58,16 @@
 
 ## Github Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&&label=PROFILE+VIEWS&color=brightgreen&style=flat)
 
 <img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272EEE,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="47%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272EEE,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="47%" alt="Top Langs">
+
+<!--
+Hey folks! 👋
+My name is Anton. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
+
+🤔 Feeling the same? 🚀 Try Ÿ HŸPE to learn what's going on with your professional profile! You'll get improved statistics on your profile views, your followers, repositories traffic, stars and more! The roadmap has a number of useful features to come!
+
+In case you would simply like a public badge to count your visitors, try GitHub Profile Views Counter.
+
+-->
