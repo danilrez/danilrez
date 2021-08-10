@@ -1,6 +1,6 @@
 # Hi there, I'm Danil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859CEE&vCenter=true&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
+![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
 ---
 
