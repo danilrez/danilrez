@@ -1,15 +1,15 @@
-<div align="center">
-
-<!-- <h1 font-size="35px" font-family="Segoe UI" font-weight="bold" text-shadow="-4px -4px 0px #90a0ad" background="repeating-linear-gradient(30deg,#424f6170,#424f6170 1px,#ffffff00 2px,#ffffff00 3px)" -webkit-background-clip="text" -webkit-text-fill-color="transparent"> Hi there! My name is Danil! <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" width="35px"> -->
+<div>
 
 <div style="text-align:center;vertical-align:middle;">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header.png?raw=true" height="57px" style="margin-right:5px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" height="50px" style="margin-left:5px">
 </div>
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2374859C50&center=true&vCenter=true&width=450&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
 </div>
+
+#
 
 - 😜 Full-Stack Developer, who loves to learn about new things
 - 🧰 I've been using GitHub to host some of my repos
