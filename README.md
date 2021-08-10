@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header.gif?raw=true&height=25)
-
 <h1 style="font-size:35px;font-family:'Segoe UI';font-weight:bold;text-shadow:-4px -4px 0px #90a0ad;background: repeating-linear-gradient(30deg,#424f6170,#424f6170 1px,#ffffff00 2px,#ffffff00 3px);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"> Hi there! My name is Danil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 <br/>
