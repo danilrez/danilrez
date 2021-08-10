@@ -41,7 +41,7 @@
 #### 🧠 Other knowledge
 
 ![Adobe](https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=FF0000&color=171717&style=flat)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&color=171717&style=flat)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=FF0000&color=171717&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&color=171717&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=FF9A00&color=171717&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28&color=171717&style=flat)
@@ -49,7 +49,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&color=171717&style=flat)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&color=171717&style=flat)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB&color=171717&style=flat)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&color=171717&style=flat)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=29ABE2&color=171717&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&color=171717&style=flat)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=0081CB&color=171717&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&color=171717&style=flat)
@@ -57,7 +57,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=0769AD&color=171717&style=flat)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&color=171717&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&color=171717&style=flat)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=181717&color=171717&style=flat)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=7040AA&color=171717&style=flat)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=5C2D91&color=171717&style=flat)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=764ABC&color=171717&style=flat)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=white&color=171717&style=flat)
