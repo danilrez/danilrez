@@ -1,10 +1,12 @@
-# Hi there! My name is Danil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+<div align="center">
+
+<h1 style="font-family:'Segoe UI';font-weight:bold;text-shadow:-4px -4px 0px #90a0ad;background: repeating-linear-gradient(30deg,#c5d2db50,#c5d2db50 1px,#ffffff00 2px,#ffffff00 3px);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"> Hi there! My name is Danil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
-#
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&label=PROFILE+VIEWS&color=067ac8&style=flat)
+#
 
 - 😜 Full-Stack Developer, who loves to learn about new things
 - 🧰 I've been using GitHub to host some of my repos
