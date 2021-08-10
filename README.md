@@ -59,6 +59,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=7040AA&color=111&style=flat)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=5e3291&color=111&style=flat)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=835fbc&color=111&style=flat)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&color=111&style=flat)
 
 <!--
@@ -94,7 +95,7 @@
 
 ## Github Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&&label=PROFILE+VIEWS&color=ff9900&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&&label=&color=ff990000&style=flat)
 
 <img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=DEG,22272EEE,11171E90&title_color=ff9900&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="48%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&bg_color=DEG,22272EEE,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="48%" alt="Top Langs">
 
