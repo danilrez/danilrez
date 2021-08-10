@@ -4,7 +4,7 @@
 
 <div display="flex" align="center" align-content="space-around" style="background:#22272e; align-content:space-around">
 
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/Header_first.png?raw=true" height="30px"> <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" height="27px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/Header_first.png?raw=true" height="35px"> <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" height="30px">
 
 </div>
 
