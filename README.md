@@ -1,7 +1,7 @@
 # Hi there! My name is Danil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
-
+> ![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
+>
 > - 😜 I'm a Full-Stack Developer, & loves to learn about new things
 > - 🧰 I've been using GitHub to host some of my repos
 > - 🌱 I’m currently learning everything 🤯 _(most of the time **ASP.NET**, **C#** )_
