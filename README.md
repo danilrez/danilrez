@@ -58,7 +58,7 @@
 
 ## Github Stats
 
-<details><summary><h2>Github Stats</h2></summary>
+<details><summary>:zap: Github Stats</summary>
 
 <br/>
 
