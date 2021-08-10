@@ -11,10 +11,10 @@
 - 💬 Ask me about anything, I'm happy to help 😉
 -->
 
-<details><summary>😜 <i>A Full-Stack Developer, who loves to learn about new things</i></summary></details>
-<details><summary>🧰 <i>I've been using GitHub to host some of my repos</i></summary></details>
-<details><summary>🌱 <i>Currently learning ASP.NET, C#</i></summary></details>
-<details><summary>💬 <i>Ask me about anything, I'm happy to help 😉</i></summary></details>
+<details><summary>😜 A Full-Stack Developer, who loves to learn about new things</summary></details>
+<details><summary>🧰 I've been using GitHub to host some of my repos</summary></details>
+<details><summary>🌱 Currently learning ASP.NET, C#</summary></details>
+<details><summary>💬 Ask me about anything, I'm happy to help 😉</summary></details>
 
 ## Languages, Tools & Experience
 
