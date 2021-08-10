@@ -58,7 +58,7 @@
 
 ## Github Stats
 
-<details><summary>:zap: <h4>Github Stats</h4></summary>
+<details><summary>:zap: <b style="font-size:24px">Github Stats</b></summary>
 
 <br/>
 
