@@ -5,7 +5,7 @@
 
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=475&height=20&lines=%20%20Husband%2C+Father%2C+Developer+from+Russia!!!) -->
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=475&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!" style="margin-left:5px">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&center=true&vCenter=true&width=450&height=20&lines=++Husband%2C+Father%2C+Developer+from+Russia!!!)
 
 </div>
 
