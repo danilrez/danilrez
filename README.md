@@ -2,10 +2,10 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
-- 😜 I'm a Full-Stack Developer, & loves to learn about new things
-- 🧰 I've been using **GitHub** to host some of my repos
-- 🌱 I’m currently learning everything 🤯 _(most of the time **ASP.NET**, **C#** )_
-- 💬 Ask me about anything, i'm happy to help 😉
+- 😜 A Full-Stack Developer, & who loves to learn about new things
+- 🧰 I've been using GitHub to host some of my repos
+- 🌱 Currently learning ASP.NET, C#
+- 💬 Ask me about anything, I'm happy to help 😉
 
 ## Languages, Tools & Experience
 
@@ -105,6 +105,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&label=PROFILE+VIEWS&color=067ac8&style=flat)
 
-<img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=11171E50&title_color=067ac8&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="48%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&bg_color=11171E50&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="48%" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=11171E50&title_color=067ac8&text_color=EEE&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="48%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&bg_color=11171E50&title_color=EEE&text_color=EEE&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="48%" alt="Top Langs">
 
 </details>
