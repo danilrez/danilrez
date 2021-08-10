@@ -2,16 +2,15 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
----
-
 - 🔭 I’m currently working on Eccentex knowledge base
 - 🌱 I’m currently learning everything 🤯
 - 💬 Ask me about whatever u wants
-- ⚡ Fun fact: I love to draw 🎨 and tuned cars 🏎️
+
+---
 
 ## Languages, Tools & Experience
 
-#### 💻 Main tech knowledge
+#### 💻 Needed for work
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
