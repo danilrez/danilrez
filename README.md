@@ -2,7 +2,7 @@
 
 <!-- <h1 font-size="35px" font-family="Segoe UI" font-weight="bold" text-shadow="-4px -4px 0px #90a0ad" background="repeating-linear-gradient(30deg,#424f6170,#424f6170 1px,#ffffff00 2px,#ffffff00 3px)" -webkit-background-clip="text" -webkit-text-fill-color="transparent"> Hi there! My name is Danil! <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" width="35px"> -->
 
-<div display="flex" align="center" align-content="space-around" style="background:#22272e; align-content:space-around">
+<div display="flex" align="center">
 
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header.png?raw=true" height="37px"> <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" height="30px">
 
