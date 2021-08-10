@@ -12,8 +12,7 @@
 
 #### 💻 Needed for work
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=ef1311&color=111&style=flat)
-![Oracle](https://img.shields.io/badge/F80000?logo=oracle&logoColor=ef1311&color=111&style=flat)
+![Oracle](https://img.shields.io/badge/ -F80000?logo=oracle&logoColor=ef1311&color=111&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&color=111&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&color=111&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=111&style=flat)
