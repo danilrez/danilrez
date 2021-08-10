@@ -8,8 +8,6 @@
 
 </div>
 
-#
-
 - 😜 Full-Stack Developer, who loves to learn about new things
 - 🧰 I've been using GitHub to host some of my repos
 - 🌱 Currently learning ASP.NET, C#
