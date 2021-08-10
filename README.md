@@ -99,7 +99,7 @@
 
 ---
 
-<details><summary><i><b>📊 Github Stats</b></i></summary>
+<details><summary>📊 <i><b>Github Stats</b></i></summary>
 
 <br/>
 
