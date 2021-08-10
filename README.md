@@ -9,7 +9,7 @@
 
 ## Languages, Tools & Experience
 
-#### Use daily
+#### Use it daily
 
 <!--
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=F80000&color=171717&style=flat)
@@ -99,8 +99,8 @@
 
 ## Github Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&label=PROFILE+VIEWS&color=067ac8&style=flat-square)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=CrappyCodeMaker)
+![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&label=PROFILE+VIEWS&color=067ac8&style=flat)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=CrappyCodeMaker&color=067ac8&style=flat)
 
 <img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=11171E50&title_color=5391FE&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="48%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&bg_color=11171E50&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="48%" alt="Top Langs">
 
