@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=475&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=475&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!?raw=true">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=475&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!">
 
 </div>
 
