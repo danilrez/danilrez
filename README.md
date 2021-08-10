@@ -2,21 +2,12 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
-#
-
-<!--
-- 😜 A Full-Stack Developer, who loves to learn about new things
+- 😜 Full-Stack Developer, who loves to learn about new things
 - 🧰 I've been using GitHub to host some of my repos
 - 🌱 Currently learning ASP.NET, C#
 - 💬 Ask me about anything, I'm happy to help 😉
--->
 
-<details><summary>😜 Full-Stack Developer, who loves to learn about new things</summary></details>
-<details><summary>🧰 I've been using GitHub to host some of my repos</summary></details>
-<details><summary>🌱 Currently learning ASP.NET, C#</summary></details>
-<details><summary>💬 Ask me about anything, I'm happy to help 😉</summary></details>
-
-<br/>
+#
 
 ## Languages, Tools & Experience
 
