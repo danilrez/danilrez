@@ -64,7 +64,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&&label=PROFILE+VIEWS&color=ffc83d&style=flat)
 
-<img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272EEE,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="47%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272EEE,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="47%" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=DEG,22272EEE,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="47%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&bg_color=DEG,22272EEE,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="47%" alt="Top Langs">
 
 <br/>
 
