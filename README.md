@@ -1,4 +1,4 @@
-<div>
+<div style="text-align:center;vertical-align:middle;">
 
 <div style="text-align:center;vertical-align:middle;">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header.png?raw=true" height="57px" style="margin-right:5px">
