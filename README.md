@@ -15,15 +15,15 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=ef1311&color=111&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&color=111&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&color=111&style=flat)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=111&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=111&style=flat)
 ![Sencha](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=89ba4b&color=111&style=flat)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=2e912b&color=111&style=flat)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&color=111&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=1974b6&color=111&style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=067ac8&color=111&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=1974b6&color=111&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=0655c9&color=111&style=flat)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=9656ec&color=111&style=flat)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=111&style=flat)
 
 ---
 
