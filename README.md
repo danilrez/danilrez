@@ -29,6 +29,7 @@
 #### 🧠 Other knowledge
 
 ![Adobe](https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=white&style=flat)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=ffd000&color=ff7139&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat)
@@ -46,7 +47,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&color=5a25a1&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=5a25a1&style=flat)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&color=5a25a1&style=flat)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&color=111&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=3ba6f4&style=flat)
 
 ## Social
