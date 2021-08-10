@@ -11,7 +11,7 @@
 - 💬 Ask me about anything, I'm happy to help 😉
 -->
 
-<details><summary>😜 A Full-Stack Developer, who loves to learn about new things</summary></details>
+<details><summary>😜 Full-Stack Developer, who loves to learn about new things</summary></details>
 <details><summary>🧰 I've been using GitHub to host some of my repos</summary></details>
 <details><summary>🌱 Currently learning ASP.NET, C#</summary></details>
 <details><summary>💬 Ask me about anything, I'm happy to help 😉</summary></details>
