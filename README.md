@@ -9,7 +9,10 @@
 - 🌱 Currently learning ASP.NET, C#
 - 💬 Ask me about anything, I'm happy to help 😉
 
----
+<details><summary>😜 <i>A Full-Stack Developer, & who loves to learn about new things</i></summary></details>
+<details><summary>🧰 <i>I've been using GitHub to host some of my repos</i></summary></details>
+<details><summary>🌱 <i>Currently learning ASP.NET, C#</i></summary></details>
+<details><summary>💬 <i>Ask me about anything, I'm happy to help 😉</i></summary></details>
 
 ## Languages, Tools & Experience
 
@@ -100,8 +103,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff&color=067ac8&style=flat)](https://t.me/RezniDa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff&color=0A66C2&style=flat)](https://www.linkedin.com/in/dani-dani)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)](https://github.com/CrappyCodeMaker)
-
----
 
 #
 
