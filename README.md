@@ -10,6 +10,7 @@
 
 #### Needed for work
 
+<!--
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=F80000&color=171717&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&color=171717&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&color=171717&style=flat)
@@ -22,6 +23,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=1572B6&color=171717&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=0052CC&color=171717&style=flat)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=512BD4&color=171717&style=flat)
+-->
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&color=E34F26&style=flat)
@@ -38,6 +40,7 @@
 
 #### Other knowledge
 
+<!--
 ![Adobe](https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=FF0000&color=171717&style=flat)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=FF0000&color=171717&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&color=171717&style=flat)
@@ -61,12 +64,13 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=430098&color=171717&style=flat)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=white&color=171717&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&color=171717&style=flat)
+-->
 
 ![Adobe](https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=fff&color=FF0000&style=flat)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&color=CB3837&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff&color=CA4245&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&color=FF9A00&style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=fff&color=FFBF00&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=fff&color=FF9A00&style=flat)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-%230081CB.svg?logo=LiveJournal&logoColor=fff&color=89ba4b&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.JS-393?logo=nodedotjs&logoColor=fff&color=339933&style=flat)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&color=00C7B7&style=flat)
@@ -88,10 +92,10 @@
 
 ## Social
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&color=171717&style=flat)](https://www.instagram.com/danil_ej9)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&color=171717&style=flat)](https://t.me/RezniDa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=0e78b0&color=171717&style=flat)](https://www.linkedin.com/in/dani-dani)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=7040AA&color=171717&style=flat)](https://github.com/CrappyCodeMaker)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=fff&color=E4405F&style=flat)](https://www.instagram.com/danil_ej9)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff&color=26A5E4&style=flat)](https://t.me/RezniDa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff&color=0A66C2&style=flat)](https://www.linkedin.com/in/dani-dani)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)](https://github.com/CrappyCodeMaker)
 
 ## Github Stats
 
