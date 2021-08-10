@@ -28,7 +28,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&color=E34F26&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&color=F05032&style=flat)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=FCA121&style=flat)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=fff&color=FCA121&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=fff&color=FF9A00&style=flat)
 ![Sencha](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&color=86BC40&style=flat)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=fff&color=239120&style=flat)
@@ -101,7 +101,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&label=PROFILE+VIEWS&color=067ac8&style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=DEG,22272E90,11171E50&title_color=ff9900&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="48%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&bg_color=DEG,22272E90,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="48%" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=DEG,22272E90,11171E50&title_color=5391FE&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="48%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&bg_color=DEG,22272E90,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="48%" alt="Top Langs">
 
 <!--
 Hey folks! 👋
