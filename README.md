@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- <h1 style="font-size:35px;font-family:'Segoe UI';font-weight:bold;text-shadow:-4px -4px 0px #90a0ad;background: repeating-linear-gradient(30deg,#424f6170,#424f6170 1px,#ffffff00 2px,#ffffff00 3px);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"> Hi there! My name is Danil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> -->
-
-<h1 style="font-family:'Segoe UI';font-weight:bold;color:90a0ad;"> Hi there! My name is Danil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-<br/>
+<h1 font-size="35px" font-family="Segoe UI" font-weight="bold" text-shadow="-4px -4px 0px #90a0ad" background="repeating-linear-gradient(30deg,#424f6170,#424f6170 1px,#ffffff00 2px,#ffffff00 3px)" -webkit-background-clip="text" -webkit-text-fill-color="transparent"> Hi there! My name is Danil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=22&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
