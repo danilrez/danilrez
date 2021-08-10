@@ -95,7 +95,7 @@
 
 ## Github Stats
 
-![](https://img.shields.io/label=Profile%20Views&style=flat-square)[Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&&label=&color=ff9900&style=flat-square)
+![](https://img.shields.io/badge/Profile%20Views-)[Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&&label=&color=ff9900&style=flat-square)
 
 **Profile Views**![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&&label=&color=ff9900&style=flat-square)
 
