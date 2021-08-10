@@ -3,15 +3,15 @@
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header.png?raw=true" height="57px" style="margin-right:5px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" height="50px" style="margin-left:5px">
 
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&center=true&vCenter=true&width=400&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!++)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&center=true&vCenter=true&width=400&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
+</div>
 
 #
 
-- 😜 Full-Stack Developer, who loves to learn about new things
-- 🧰 I've been using GitHub to host some of my repos
-- 🌱 Currently learning ASP.NET, C#
+- 😜 **Full-Stack Developer**, who loves to learn about new things
+- 🧰 I've been using **GitHub** to host some of my repos
+- 🌱 Currently learning **ASP.NET**, **C#**
 - 💬 Ask me about anything, I'm happy to help 😉
 
 ## Languages, Tools & Experience
