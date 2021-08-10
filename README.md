@@ -2,12 +2,14 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
+#
+
+![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&label=PROFILE+VIEWS&color=067ac8&style=flat)
+
 - 😜 Full-Stack Developer, who loves to learn about new things
 - 🧰 I've been using GitHub to host some of my repos
 - 🌱 Currently learning ASP.NET, C#
 - 💬 Ask me about anything, I'm happy to help 😉
-
-#
 
 ## Languages, Tools & Experience
 
@@ -101,7 +103,7 @@
 
 #
 
-<details><summary>📊 <i><b>Github Stats</b></i></summary>
+<details><summary>📊 <b>Github Stats</b></summary>
 
 <br/>
 
