@@ -1,12 +1,11 @@
 <div align="center">
 
-<div align="center">
-
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header.png?raw=true" height="57px" style="margin-right:5px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" height="50px" style="margin-left:5px">
-</div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=475&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=475&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!?raw=true">
 
 </div>
 
