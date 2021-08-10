@@ -7,7 +7,7 @@
 
 <div style="margin-right:20px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&center=true&vCenter=true&width=450&height=23&lines=+Husband%2C+Father%2C+Developer+from+Russia!!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&center=true&vCenter=true&width=450&height=25&lines=+Husband%2C+Father%2C+Developer+from+Russia!!!)
 
 </div></div>
 
