@@ -2,15 +2,13 @@
 
 <!-- <h1 font-size="35px" font-family="Segoe UI" font-weight="bold" text-shadow="-4px -4px 0px #90a0ad" background="repeating-linear-gradient(30deg,#424f6170,#424f6170 1px,#ffffff00 2px,#ffffff00 3px)" -webkit-background-clip="text" -webkit-text-fill-color="transparent"> Hi there! My name is Danil! <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" width="35px"> -->
 
-<div display="flex" align="center">
+<div align="center" style="text-align:center;vertical-align: middle;">
 
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header.png?raw=true" height="47px"> <h7> </h7> <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" height="40px">
 
 </div>
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=22&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
-
-</h1>
 
 </div>
 
