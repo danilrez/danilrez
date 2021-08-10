@@ -66,8 +66,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&color=171717&style=flat)
 -->
 
-![Adobe](https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=fff&color=FF0000&style=flat)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&color=CB3837&style=flat)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&color=EB3837&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff&color=CA4245&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&color=FF9A00&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=fff&color=FF9A00&style=flat)
@@ -93,7 +92,7 @@
 ## Social
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=fff&color=E4405F&style=flat)](https://www.instagram.com/danil_ej9)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff&color=26A5E4&style=flat)](https://t.me/RezniDa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff&color=067ac8&style=flat)](https://t.me/RezniDa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff&color=0A66C2&style=flat)](https://www.linkedin.com/in/dani-dani)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)](https://github.com/CrappyCodeMaker)
 
