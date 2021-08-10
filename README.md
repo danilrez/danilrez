@@ -1,15 +1,15 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+# Hi there! My name is Danil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-My name is Danil. ![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
+![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
-I've been using GitHub to host some of my repos. But I always feel like it doesn't provide me with the full picture statistics-wise.
-
-- 🌱 I’m currently learning everything 🤯
-- 💬 Ask me about whatever u wants
+> - 😜 I'm a Full-Stack Developer, & loves to learn about new things
+> - 🧰 I've been using GitHub to host some of my repos
+> - 🌱 I’m currently learning everything 🤯 _(most of the time **ASP.NET**, **C#** )_
+> - 💬 ask me about anything, i am happy to help 😉
 
 ## Languages, Tools & Experience
 
-#### Needed for work
+#### Use daily
 
 <!--
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=F80000&color=171717&style=flat)
@@ -100,6 +100,7 @@ I've been using GitHub to host some of my repos. But I always feel like it doesn
 ## Github Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&label=PROFILE+VIEWS&color=067ac8&style=flat-square)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=CrappyCodeMaker)
 
 <img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=11171E50&title_color=5391FE&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="48%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&bg_color=11171E50&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="48%" alt="Top Langs">
 
