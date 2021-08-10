@@ -28,6 +28,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&color=E34F26&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&color=F05032&style=flat)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=FCA121&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=fff&color=FF9A00&style=flat)
 ![Sencha](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&color=86BC40&style=flat)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=fff&color=239120&style=flat)
@@ -36,7 +37,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&color=1572B6&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=fff&color=0A0FFF&style=flat)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4&style=flat)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=171717&style=flat)
 
 #### Other knowledge
 
