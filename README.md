@@ -4,12 +4,14 @@
 
 #
 
-- 😜 A Full-Stack Developer, & who loves to learn about new things
+<!--
+- 😜 A Full-Stack Developer, who loves to learn about new things
 - 🧰 I've been using GitHub to host some of my repos
 - 🌱 Currently learning ASP.NET, C#
 - 💬 Ask me about anything, I'm happy to help 😉
+-->
 
-<details><summary>😜 <i>A Full-Stack Developer, & who loves to learn about new things</i></summary></details>
+<details><summary>😜 <i>A Full-Stack Developer, who loves to learn about new things</i></summary></details>
 <details><summary>🧰 <i>I've been using GitHub to host some of my repos</i></summary></details>
 <details><summary>🌱 <i>Currently learning ASP.NET, C#</i></summary></details>
 <details><summary>💬 <i>Ask me about anything, I'm happy to help 😉</i></summary></details>
