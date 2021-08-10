@@ -1,5 +1,5 @@
-<div align="center">
-
+<!-- <div align="center"> -->
+<div>
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header.png?raw=true" height="57px" style="margin-right:5px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" height="50px" style="margin-left:5px">
 
