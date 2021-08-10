@@ -1,6 +1,6 @@
 # Hi there, I'm Danil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
+![Typing](https://readme-typing-svg.herokuapp.com?color=%2374859C50&vCenter=true&width=500&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
 ---
 
@@ -20,8 +20,8 @@
 ![Sencha](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&color=3ba6f4&style=flat)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&style=flat)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=5a25a1&style=flat)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=111&style=flat)
@@ -58,9 +58,17 @@
 
 ## Github Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&&label=PROFILE+VIEWS&color=brightgreen&style=flat)
+<details><summary><h2>Github Stats</h2></summary>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&&label=PROFILE+VIEWS&color=ffc83d&style=flat)
 
 <img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272EEE,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&border_radius=10&line_height=30&include_all_commits=true&hide_border=true&hide_title=false&show_icons=true&count_private=true&hide=contribs,prs&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="47%" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&theme=nord&bg_color=DEG,22272EEE,11171E90&title_color=EEEEEE&text_color=b9c4cf&icon_color=ffc83d&card_width=350&border_radius=10&line_height=25&hide_border=true&hide_title=false&show_icons=true&count_private=true&layout=compact&custom_title=Most+used+langs&hide_title=true" width="47%" alt="Top Langs">
+
+<br/>
+
+</details>
 
 <!--
 Hey folks! 👋
