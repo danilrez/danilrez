@@ -9,6 +9,8 @@
 - 🌱 Currently learning ASP.NET, C#
 - 💬 Ask me about anything, I'm happy to help 😉
 
+---
+
 ## Languages, Tools & Experience
 
 #### Use it daily
@@ -100,6 +102,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)](https://github.com/CrappyCodeMaker)
 
 ---
+
+#
 
 <details><summary>📊 <i><b>Github Stats</b></i></summary>
 
