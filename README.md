@@ -20,18 +20,18 @@
 #### Use it daily
 
 <div>
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/oracle.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/sql.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/html.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/git.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/javascript.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/sencha.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/csharp.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/powershell.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/css.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/jira.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/dotner.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/tree/master/img/ico/gitlab.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/oracle.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/sql.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/html.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/git.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/javascript.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/sencha.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/csharp.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/powershell.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/css.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/jira.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/dotner.svg" height="24px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/gitlab.svg" height="24px">
 </div>
 
 <!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
