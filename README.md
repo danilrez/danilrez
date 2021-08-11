@@ -2,7 +2,7 @@
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header.svg" height="80px" style="margin-right:5px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header_hand.gif" height="70px" style="margin-left:5px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&center=true&vCenter=true&width=400&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!+++++)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&vCenter=true&width=400&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
 </div>
 
