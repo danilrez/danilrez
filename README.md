@@ -19,22 +19,7 @@
 
 #### Use it daily
 
-<div>
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/oracle.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/sql.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/html.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/git.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/javascript.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/sencha.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/csharp.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/powershell.svg" height="24px">
-<img src="https://raw.githubusercontent.com/CrappyCodeMaker/CrappyCodeMaker/acaabc5e0edabbca9541cac8a386c44c8fc35f95/img/ico/css.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/jira.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/dotner.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/gitlab.svg" height="24px">
-</div>
-
-<!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
 ![PL SQL](https://img.shields.io/badge/PL%20SQL-F80000?logo=oracle&logoColor=fff&color=F82020&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&color=E34F26&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&color=F05032&style=flat)
@@ -45,11 +30,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&color=007ACC&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=fff&color=0A0FFF&style=flat)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4&style=flat)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=171717&style=flat) -->
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=171717&style=flat)
 
 #### Other knowledge
 
-<!-- ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&color=EB3837&style=flat)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&color=EB3837&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff&color=CA4245&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&color=FF9A00&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=fff&color=FF9A00&style=flat)
@@ -68,7 +53,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&color=171717&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&color=171717&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)
-![Siebel](https://img.shields.io/badge/Siebel-%23121011.svg?style=for-the-badge&logo=sahibinden&logoColor=fff&color=171717&style=flat) -->
+![Siebel](https://img.shields.io/badge/Siebel-%23121011.svg?style=for-the-badge&logo=sahibinden&logoColor=fff&color=171717&style=flat)
 
 ## Social
 
