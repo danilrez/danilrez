@@ -1,3 +1,25 @@
-<svg filter="url(#saturation)" opacity="0.95" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-<path d="m2.25 15.75v-8h2l3 3 3-3h2v8h-2v-5.17l-3 3-3-3v5.17h-2m14-8h3v4h2.5l-4 4.5-4-4.5h2.5z" fill="#42a5f5"/>
-<filter id="saturation"><feColorMatrix type="saturate" values="0.95"/></filter></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.71752in" height="2.92815in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6717.52 2928.15"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2520801752448">
+   <g>
+    <path class="fil0" d="M-0 2755.91l0 -2755.91 688.98 0 1033.46 1033.46 1033.46 -1033.46 688.98 0 0 2755.91 -688.98 0 0 -1781 -1033.46 1033.46 -1033.46 -1033.46 0 1781 -688.98 0 0 0zm4822.83 -2755.91l1033.46 0 0 1377.95 861.22 0 -1377.95 1550.2 -1377.95 -1550.2 861.22 0 0 -1377.95z"/>
+   </g>
+   <filter id="saturation">
+   </filter>
+  </g>
+ </g>
+</svg>
