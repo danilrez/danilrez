@@ -9,6 +9,7 @@
 #
 
 - 😜 **Full-Stack Developer**, who loves to learn about new things
+- :computer: Most used line of code `git commit -m "fix"`
 - 🧰 I've been using **GitHub** to host some of my repos
 - 🌱 Currently learning **ASP.NET**, **C#**
 - 💬 Ask me about anything, I'm happy to help 😉
@@ -33,7 +34,7 @@
 -->
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
-![PL SQL](https://img.shields.io/badge/PL%20SQL-F80000?logo=oracle&logoColor=fff&color=F81010&style=flat)
+![PL SQL](https://img.shields.io/badge/PL%20SQL-F80000?logo=oracle&logoColor=fff&color=F82020&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&color=E34F26&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&color=F05032&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=fff&color=FF9A00&style=flat)
