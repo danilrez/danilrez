@@ -44,6 +44,9 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4&style=flat)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=171717&style=flat)
 
+![PL/SQL](https://img.shields.io/badge/PL%20SQL-F44A6A?logo=codefactor&logoColor=fff&style=flat)
+![PL/SQL](https://img.shields.io/badge/PL%20SQL-F44A6A?logo=producthunt&logoColor=fff&style=flat)
+
 <!-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&color=007ACC&style=flat) -->
 
 #### Other knowledge
@@ -91,6 +94,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&color=171717&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&color=171717&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)
+![Siebel](https://img.shields.io/badge/Siebel-%23121011.svg?style=for-the-badge&logo=sahibinden&logoColor=fff&color=171717&style=flat)
 
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&color=0081CB&style=flat) -->
 <!-- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=fff&color=0769AD&style=flat) -->
