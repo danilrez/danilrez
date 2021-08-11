@@ -39,11 +39,12 @@
 ![Sencha](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&color=86BC40&style=flat)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=fff&color=239120&style=flat)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&color=5391FE&style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&color=007ACC&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&color=007ACC&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=fff&color=0A0FFF&style=flat)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4&style=flat)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=171717&style=flat)
+
+<!-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&color=007ACC&style=flat) -->
 
 #### Other knowledge
 
@@ -87,12 +88,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&color=0081CB&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=fff&color=7952B3&style=flat)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=fff&color=764ABC&style=flat)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&color=5C2D91&style=flat)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&color=430098&style=flat)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&color=171717&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&color=171717&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)
 
+<!-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&color=5C2D91&style=flat) -->
 <!-- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=fff&color=0769AD&style=flat) -->
 <!-- ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=fff&color=0769AD&style=flat) -->
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=fff&color=CC6699&style=flat) -->
