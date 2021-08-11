@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header.svg" height="80px" style="margin-right:5px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header_hand.gif" height="70px" style="margin-left:5px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header.svg" height="70px" style="margin-right:5px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header_hand.gif" height="60px" style="margin-left:5px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&vCenter=true&width=400&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&vCenter=true&width=400&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
 </div>
 
@@ -33,6 +33,7 @@
 -->
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
+![PL SQL](https://img.shields.io/badge/PL%20SQL-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&color=E34F26&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&color=F05032&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=fff&color=FF9A00&style=flat)
@@ -43,9 +44,6 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=fff&color=0A0FFF&style=flat)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4&style=flat)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=171717&style=flat)
-
-![PL/SQL](https://img.shields.io/badge/PL%20SQL-F44A6A?logo=codefactor&logoColor=fff&style=flat)
-![PL/SQL](https://img.shields.io/badge/PL%20SQL-F44A6A?logo=producthunt&logoColor=fff&style=flat)
 
 <!-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&color=007ACC&style=flat) -->
 
