@@ -10,7 +10,7 @@
 #
 
 - 😜 **Full-Stack Developer**, who loves to learn about new things
-- 💻 Most used line of code `git commit -m "fix"`
+- 💻 Most used line of code `git commit -m "fix"` 🤣
 - 🧰 I've been using **GitHub** to host some of my repos
 - 🌱 Currently learning **ASP.NET**, **C#**
 - 💬 Ask me about anything, I'm happy to help 😉
