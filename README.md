@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header.png?raw=true" height="57px" style="margin-right:5px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/header_hand.gif?raw=true" height="50px" style="margin-left:5px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header.png?raw=true" height="57px" style="margin-right:5px">
+<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header_hand.gif?raw=true" height="50px" style="margin-left:5px">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&center=true&vCenter=true&width=400&height=25&lines=Husband%2C+Father%2C+Developer+from+Russia!!!++)
 
@@ -86,9 +86,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&color=31A8FF&style=flat)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=fff&color=0081CB&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&color=0081CB&style=flat)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=fff&color=0769AD&style=flat)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=fff&color=0769AD&style=flat)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=fff&color=CC6699&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=fff&color=7952B3&style=flat)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=fff&color=764ABC&style=flat)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&color=5C2D91&style=flat)
@@ -96,6 +93,10 @@
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&color=171717&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&color=171717&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)
+
+<!-- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=fff&color=0769AD&style=flat) -->
+<!-- ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=fff&color=0769AD&style=flat) -->
+<!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=fff&color=CC6699&style=flat) -->
 
 ## Social
 
@@ -106,7 +107,7 @@
 
 #
 
-<details><summary>📊 <b>Github Stats</b></summary>
+<details><summary><b>Github Stats</b></summary>
 
 <br/>
 
