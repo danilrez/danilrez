@@ -28,7 +28,7 @@
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/sencha.svg" height="24px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/csharp.svg" height="24px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/powershell.svg" height="24px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/css.svg" height="24px">
+<img src="https://raw.githubusercontent.com/CrappyCodeMaker/CrappyCodeMaker/acaabc5e0edabbca9541cac8a386c44c8fc35f95/img/ico/css.svg" height="24px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/jira.svg" height="24px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/dotner.svg" height="24px">
 <img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/ico/ico/gitlab.svg" height="24px">
