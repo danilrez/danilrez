@@ -57,11 +57,9 @@
 
 ## Social
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff&style=flat)](https://www.codewars.com/users/CrappyCodeMaker)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=fff&color=E4405F&style=flat)](https://www.instagram.com/danil_ej9)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)](https://github.com/CrappyCodeMaker)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff&color=067ac8&style=flat)](https://t.me/RezniDa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff&color=0A66C2&style=flat)](https://www.linkedin.com/in/dani-dani)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=fff&color=E4405F&style=flat)](https://www.instagram.com/danil_ej9)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff&color=067ac8&style=flat)](https://t.me/RezniDa)
 
 #
 
