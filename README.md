@@ -58,8 +58,8 @@
 ## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff&color=0A66C2&style=flat)](https://www.linkedin.com/in/dani-dani)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=fff&color=E4405F&style=flat)](https://www.instagram.com/danil_ej9)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff&color=067ac8&style=flat)](https://t.me/RezniDa)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=fff&color=E4405F&style=flat)](https://www.instagram.com/danil_ej9)
 
 #
 
