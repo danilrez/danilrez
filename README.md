@@ -36,6 +36,7 @@
 
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&color=EB3837&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff&color=CA4245&style=flat)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&color=F24E1E&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&color=FF9A00&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=fff&color=FF9A00&style=flat)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-%230081CB.svg?logo=LiveJournal&logoColor=fff&color=89ba4b&style=flat)
