@@ -7,17 +7,17 @@
 
 </div>
 
-#
+## About me
 
-- 😜 **Full-Stack Developer**, who loves to learn about new things
-- 💻 Most used line of code `git commit -m "fix"` 🤣
-- 🧰 I've been using **GitHub** to host some of my repos
-- 🌱 Currently learning **ASP.NET**, **C#**
-- 💬 Ask me about anything, I'm happy to help 😉
+Forward-looking Software Engineer having 2 years of experience in enterprise software development in all aspects of the lifecycle,
+from concept through to development and delivery. Also, I have 2 years of Siebel technical support experience.
+
+Now, I'm mostly focusing on learning new things about ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=fff&color=00C4CC&style=flat) and up my skills in that because, in my opinion, it's more in-demand, more flexible than others.
+The next goal will be to increase the level of skill with ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&color=0081CB&style=flat) and ![Node.js](https://img.shields.io/badge/Node.JS-393?logo=nodedotjs&logoColor=fff&color=339933&style=flat).
 
 ## Languages, Tools & Experience
 
-#### Use it daily
+#### Use this daily at work
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&color=F80000&style=flat)
 ![PL SQL](https://img.shields.io/badge/PL%20SQL-F80000?logo=oracle&logoColor=fff&color=F82020&style=flat)
@@ -29,31 +29,23 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&color=5391FE&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&color=007ACC&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=fff&color=0A0FFF&style=flat)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4&style=flat)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&color=171717&style=flat)
 
-#### Other knowledge
+#### Also worked with
 
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&color=EB3837&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff&color=CA4245&style=flat)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&color=F24E1E&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&color=FF9A00&style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=fff&color=FF9A00&style=flat)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-%230081CB.svg?logo=LiveJournal&logoColor=fff&color=89ba4b&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.JS-393?logo=nodedotjs&logoColor=fff&color=339933&style=flat)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&color=00C7B7&style=flat)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=fff&color=00C4CC&style=flat)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=fff&color=29ABE2&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&color=31A8FF&style=flat)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=fff&color=0081CB&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&color=0081CB&style=flat)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=fff&color=0769AD&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=fff&color=7952B3&style=flat)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=fff&color=764ABC&style=flat)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&color=430098&style=flat)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&color=171717&style=flat)
-![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&color=171717&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=171717&style=flat)
 ![Siebel](https://img.shields.io/badge/Siebel-%23121011.svg?style=for-the-badge&logo=sahibinden&logoColor=fff&color=171717&style=flat)
 
 ## Social
