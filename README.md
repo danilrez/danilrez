@@ -7,13 +7,13 @@
 
 </div>
 
-## About me
+## About
 
 Forward-looking Software Engineer having 2 years of experience in enterprise software development in all aspects of the lifecycle,
 from concept through to development and delivery. Also, I have 2 years of Siebel technical support experience.
 
-Now, I'm mostly focusing on learning new things about ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=fff&color=00C4CC&style=flat) and up my skills in that because, in my opinion, it's more in-demand, more flexible than others.
-The next goal will be to increase the level of skill with ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&color=0081CB&style=flat) and ![Node.js](https://img.shields.io/badge/Node.JS-393?logo=nodedotjs&logoColor=fff&color=339933&style=flat).
+I'm mostly focusing on learning new things _(up my skills in that)_ about ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=fff&color=00C4CC&style=flat) ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat).
+Next goals will be to increase the level of skill with ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&color=0081CB&style=flat) and ![Node.js](https://img.shields.io/badge/Node.JS-393?logo=nodedotjs&logoColor=fff&color=339933&style=flat).
 
 ## Languages, Tools & Experience
 
@@ -49,11 +49,12 @@ The next goal will be to increase the level of skill with ![TypeScript](https://
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&color=171717&style=flat)
 ![Siebel](https://img.shields.io/badge/Siebel-%23121011.svg?style=for-the-badge&logo=sahibinden&logoColor=fff&color=171717&style=flat)
 
-## Social
+## Feel free to get in touch with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff&color=0A66C2&style=flat)](https://www.linkedin.com/in/dani-dani)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff&color=067ac8&style=flat)](https://t.me/RezniDa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff&color=069af8&style=flat)](https://t.me/RezniDa)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=fff&color=E4405F&style=flat)](https://www.instagram.com/danil_ej9)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:reznida@gmail.com)
 
 #
 
