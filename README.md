@@ -16,8 +16,6 @@ I'm mostly focusing on growing up my skills at ![React](https://img.shields.io/b
 
 The next goal will be to increase the level of skill with ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&color=0081CB&style=flat) and ![Node.js](https://img.shields.io/badge/Node.JS-393?logo=nodedotjs&logoColor=fff&color=339933&style=flat).
 
-#
-
 ## Languages, Tools & Experience
 
 #### Use this daily at work
@@ -51,8 +49,6 @@ The next goal will be to increase the level of skill with ![TypeScript](https://
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=fff&color=764ABC&style=flat)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&color=171717&style=flat)
 ![Siebel](https://img.shields.io/badge/Siebel-%23121011.svg?style=for-the-badge&logo=sahibinden&logoColor=fff&color=171717&style=flat)
-
-#
 
 ## Feel free to get in touch with me:
 
