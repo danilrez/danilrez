@@ -13,7 +13,10 @@ Forward-looking Software Engineer having 2 years of experience in enterprise sof
 from concept through to development and delivery. Also, I have 2 years of Siebel technical support experience.
 
 I'm mostly focusing on growing up my skills at ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=fff&color=00C4CC&style=flat) ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat).
+
 The next goal will be to increase the level of skill with ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&color=0081CB&style=flat) and ![Node.js](https://img.shields.io/badge/Node.JS-393?logo=nodedotjs&logoColor=fff&color=339933&style=flat).
+
+#
 
 ## Languages, Tools & Experience
 
@@ -48,6 +51,8 @@ The next goal will be to increase the level of skill with ![TypeScript](https://
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=fff&color=764ABC&style=flat)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&color=171717&style=flat)
 ![Siebel](https://img.shields.io/badge/Siebel-%23121011.svg?style=for-the-badge&logo=sahibinden&logoColor=fff&color=171717&style=flat)
+
+#
 
 ## Feel free to get in touch with me:
 
