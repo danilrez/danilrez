@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header.svg" height="70px" style="margin-right:5px">
-<img src="https://github.com/CrappyCodeMaker/CrappyCodeMaker/blob/master/img/header_hand.gif" height="60px" style="margin-left:5px">
+<img src="https://github.com/danilrez/danilrez/blob/master/img/header.svg" height="70px" style="margin-right:5px">
+<img src="https://github.com/danilrez/danilrez/blob/master/img/header_hand.gif" height="60px" style="margin-left:5px">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2374859C50&vCenter=true&width=400&height=20&lines=Husband%2C+Father%2C+Developer+from+Russia!!!)
 
@@ -61,9 +61,9 @@ The next goal will be to increase the level of skill with ![TypeScript](https://
 
 <details><summary><b>Github Stats</b></summary>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CrappyCodeMaker&label=PROFILE+VIEWS&color=067ac8&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=danilrez&label=PROFILE+VIEWS&color=067ac8&style=flat)
 
 <div align="center" vertical-align="align">
-<img src="https://github-readme-stats.vercel.app/api?username=CrappyCodeMaker&bg_color=11171E70&title_color=067ac8&text_color=EEE&icon_color=ffc83d&border_radius=5&line_height=30&include_all_commits=true&hide_border=true&show_icons=true&count_private=true&custom_title=CrappyCodeMaker's+stats&hide_title=true" width="49%" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyCodeMaker&bg_color=11171E70&title_color=EEE&text_color=EEE&icon_color=ffc83d&card_width=350&border_radius=5&line_height=25&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=9&custom_title=Most+used+langs&hide_title=true" width="49%" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=danilrez&bg_color=11171E70&title_color=067ac8&text_color=EEE&icon_color=ffc83d&border_radius=5&line_height=30&include_all_commits=true&hide_border=true&show_icons=true&count_private=true&custom_title=danilrez's+stats&hide_title=true" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilrez&bg_color=11171E70&title_color=EEE&text_color=EEE&icon_color=ffc83d&card_width=350&border_radius=5&line_height=25&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=9&custom_title=Most+used+langs&hide_title=true" width="49%" alt="Top Langs">
 </div></details>
