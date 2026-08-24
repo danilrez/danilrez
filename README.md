@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/danilrez/danilrez/blob/master/img/header_hand.gif" width="36">
 
-![Projects](https://github.com/danilrez/danilrez/blob/master/img/projects.jpg)
+![bg](https://github.com/danilrez/danilrez/blob/master/img/bg.png)
 
 <details>
 <summary>About</summary>
