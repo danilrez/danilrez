@@ -1,7 +1,7 @@
 ![bg](https://github.com/danilrez/danilrez/blob/master/img/bg.png)
 
 <details>
-<summary>About <img src="https://github.com/danilrez/danilrez/blob/master/img/header_hand.gif" width="20"></summary>
+<summary>About <img src="https://github.com/danilrez/danilrez/blob/master/img/header_hand.gif" width="16"></summary>
 
 I'm a Software Engineer focused on solving engineering problems through pragmatic solutions.
 
